@@ -1,0 +1,412 @@
+Brand,price,Model,RAM,ROM,Camera,Battery,Processor,Size
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear | 8MP Front,6000,Snapdragon 4 Gen 2 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,64MP Rear | 8MP Front,6000,T8200 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP Rear | 20MP Front,5800,Snapdragon 6 Gen 3 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Dimensity 7400 Ultra Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,T7250 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 2MP | 32MP Front,6000,6 Gen 4 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 2MP | 16MP Front,7200,Dimensity 7400-Turbo Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear,8000,Dimensity 7360 MAX Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 10MP + 12MP | 12MP Front,8000,8 Elite for Galaxy Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,48MP + 13MP + 10.8MP | 10.5MP Front,4000,Tensor G6 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Dimensity 7400 Ultra Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 6300 5G Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,8 Elite for Galaxy Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 8MP | 12MP Front,4000,Qualcomm Snapdragon 6 Gen 3 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,6 Gen 4 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Snapdragon 6 Gen 3 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear | 8MP Front,5800,Dimensity 6300 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,64MP Rear | 8MP Front,6500,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Snapdragon 4 Gen 2 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 2MP | 8MP Front,6000,T8200 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Snapdragon 6 Gen 3 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 2MP | 32MP Front,5800,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 2MP | 16MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear,10001,T7250 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 10MP + 12MP | 12MP Front,6000,6 Gen 4 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,6000,Dimensity 7400-Turbo Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Dimensity 7360 MAX Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,8 Elite for Galaxy Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 0.08MP | 5MP Front,8000,Tensor G6 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 10MP + 12MP | 12MP Front,4000,Dimensity 7400 Ultra Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Qualcomm Snapdragon 6 Gen 3 Processor,6.3
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Dimensity 6300 5G Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,8 Elite for Galaxy Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Qualcomm Snapdragon 6 Gen 3 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear | 8MP Front,4000,Qualcomm Snapdragon 6 Gen 3 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,64MP Rear | 8MP Front,5000,6 Gen 4 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 6300 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 2MP | 8MP Front,5800,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,Dimensity 7400 Ultra Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 16MP Front,10001,T8200 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear,6000,Snapdragon 6 Gen 3 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,5800,Dimensity 7400 Ultra Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,T7250 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,6 Gen 4 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 0.08MP | 5MP Front,6000,Dimensity 7400-Turbo Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Dimensity 7360 MAX Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,8 Elite for Galaxy Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,Tensor G6 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,Dimensity 7400 Ultra Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,Qualcomm Snapdragon 6 Gen 3 Processor,6.2
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear | 8MP Front,10001,Dimensity 6300 5G Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,64MP Rear | 8MP Front,5000,8 Elite for Galaxy Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 2MP | 8MP Front,4000,6 Gen 4 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 2MP | 32MP Front,5000,Dimensity 6300 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 2MP | 16MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear,5800,Dimensity 7400 Ultra Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 10MP + 12MP | 12MP Front,6500,Snapdragon 4 Gen 2 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,T8200 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Snapdragon 6 Gen 3 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 0.08MP | 5MP Front,6000,Dimensity 7400 Ultra Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,5800,T7250 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,6 Gen 4 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 7400-Turbo Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Dimensity 7360 MAX Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,8 Elite for Galaxy Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Tensor G6 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear | 8MP Front,8000,Dimensity 7400 Ultra Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,64MP Rear | 8MP Front,8000,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Dimensity 6300 5G Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,8 Elite for Galaxy Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 2MP | 16MP Front,6500,6 Gen 4 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear,4000,Snapdragon 6 Gen 3 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 6300 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 7400 Ultra Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,Snapdragon 4 Gen 2 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 0.08MP | 5MP Front,6500,T8200 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 7400 Ultra Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,T7250 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP Rear | 20MP Front,5800,6 Gen 4 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear | 8MP Front,10001,Dimensity 7360 MAX Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,64MP Rear | 8MP Front,6000,8 Elite for Galaxy Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,Tensor G6 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Dimensity 7400 Ultra Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 2MP | 8MP Front,8000,Qualcomm Snapdragon 6 Gen 3 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 2MP | 32MP Front,4000,Dimensity 6300 5G Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 2MP | 16MP Front,4985,8 Elite for Galaxy Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear,10001,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,6 Gen 4 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Snapdragon 6 Gen 3 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 8MP | 12MP Front,4000,Dimensity 6300 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Snapdragon 4 Gen 2 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,T8200 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,Snapdragon 6 Gen 3 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 7400 Ultra Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear | 8MP Front,6000,T7250 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,64MP Rear | 8MP Front,6000,6 Gen 4 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP Rear | 20MP Front,5800,Dimensity 7400-Turbo Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,8 Elite for Galaxy Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Tensor G6 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 2MP | 32MP Front,6000,Dimensity 7400 Ultra Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 2MP | 16MP Front,7200,Qualcomm Snapdragon 6 Gen 3 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear,8000,Qualcomm Snapdragon 6 Gen 3 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 10MP + 12MP | 12MP Front,8000,Dimensity 6300 5G Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,48MP + 13MP + 10.8MP | 10.5MP Front,4000,8 Elite for Galaxy Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,6 Gen 4 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Dimensity 6300 Processor,6.74
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,T8200 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear | 8MP Front,5800,Snapdragon 6 Gen 3 Processor,6.77
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,T7250 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 2MP | 8MP Front,6000,6 Gen 4 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Dimensity 7400-Turbo Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 2MP | 32MP Front,5800,Dimensity 7360 MAX Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 2MP | 16MP Front,5000,8 Elite for Galaxy Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear,10001,Tensor G6 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 10MP + 12MP | 12MP Front,6000,Dimensity 7400 Ultra Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Qualcomm Snapdragon 6 Gen 3 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,Dimensity 6300 5G Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 0.08MP | 5MP Front,8000,8 Elite for Galaxy Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 10MP + 12MP | 12MP Front,4000,Qualcomm Snapdragon 6 Gen 3 Processor,6.2
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,6 Gen 4 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 6300 Processor,6.7
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear | 8MP Front,4000,Dimensity 7400 Ultra Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,64MP Rear | 8MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,T8200 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,T7250 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 16MP Front,10001,6 Gen 4 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear,6000,Dimensity 7400-Turbo Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Dimensity 7360 MAX Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,5800,8 Elite for Galaxy Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Tensor G6 Processor,6.7
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 0.08MP | 5MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Dimensity 6300 5G Processor,6.76
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,6 Gen 4 Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear | 8MP Front,10001,Snapdragon 6 Gen 3 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,64MP Rear | 8MP Front,5000,Dimensity 6300 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Dimensity 7400 Ultra Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 2MP | 8MP Front,4000,Snapdragon 4 Gen 2 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,T8200 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 2MP | 32MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 10MP + 12MP | 12MP Front,6500,T7250 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,6 Gen 4 Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 7360 MAX Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 0.08MP | 5MP Front,6000,8 Elite for Galaxy Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,5800,Tensor G6 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,Dimensity 6300 5G Processor,6.77
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear | 8MP Front,8000,Qualcomm Snapdragon 6 Gen 3 Processor,6.78
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,6 Gen 4 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Snapdragon 6 Gen 3 Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Dimensity 6300 Processor,6.8
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 2MP | 16MP Front,6500,Snapdragon 4 Gen 2 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear,4000,T8200 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,T7250 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 0.08MP | 5MP Front,6500,6 Gen 4 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 7360 MAX Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,8 Elite for Galaxy Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Tensor G6 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP Rear | 20MP Front,5800,Dimensity 7400 Ultra Processor,6.77
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear | 8MP Front,10001,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,64MP Rear | 8MP Front,6000,Dimensity 6300 5G Processor,6.79
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,6 Gen 4 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 2MP | 32MP Front,4000,Snapdragon 6 Gen 3 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 2MP | 16MP Front,4985,Dimensity 6300 Processor,6.3
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,T8200 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 8MP | 12MP Front,4000,Snapdragon 6 Gen 3 Processor,6.2
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,T7250 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,6 Gen 4 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,Dimensity 7400-Turbo Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,8 Elite for Galaxy Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear | 8MP Front,6000,Tensor G6 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,64MP Rear | 8MP Front,6000,Dimensity 7400 Ultra Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP Rear | 20MP Front,5800,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Dimensity 6300 5G Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,8 Elite for Galaxy Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 2MP | 32MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear,8000,6 Gen 4 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 10MP + 12MP | 12MP Front,8000,Snapdragon 6 Gen 3 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,48MP + 13MP + 10.8MP | 10.5MP Front,4000,Dimensity 6300 Processor,6.2
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 7400 Ultra Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,T8200 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,T7250 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,6 Gen 4 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear | 8MP Front,5800,Dimensity 7400-Turbo Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,64MP Rear | 8MP Front,6500,Dimensity 7360 MAX Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,8 Elite for Galaxy Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Tensor G6 Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 2MP | 8MP Front,6000,Dimensity 7400 Ultra Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 2MP | 16MP Front,5000,Dimensity 6300 5G Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear,10001,8 Elite for Galaxy Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 10MP + 12MP | 12MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,6 Gen 4 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,Snapdragon 6 Gen 3 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 0.08MP | 5MP Front,8000,Dimensity 6300 Processor,6.8
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Snapdragon 4 Gen 2 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,T8200 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,64MP Rear | 8MP Front,5000,T7250 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 7400-Turbo Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 2MP | 8MP Front,5800,Dimensity 7360 MAX Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,8 Elite for Galaxy Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,Tensor G6 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 16MP Front,10001,Dimensity 7400 Ultra Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,5800,Dimensity 6300 5G Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,8 Elite for Galaxy Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,6 Gen 4 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Snapdragon 6 Gen 3 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,Dimensity 6300 Processor,6.78
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,Dimensity 7400 Ultra Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Snapdragon 4 Gen 2 Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear | 8MP Front,10001,T8200 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,64MP Rear | 8MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 2MP | 8MP Front,4000,T7250 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,6 Gen 4 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 2MP | 32MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 2MP | 16MP Front,6000,Dimensity 7360 MAX Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear,5800,8 Elite for Galaxy Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 10MP + 12MP | 12MP Front,6500,Tensor G6 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 0.08MP | 5MP Front,6000,Dimensity 6300 5G Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,5800,8 Elite for Galaxy Processor,6.77
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,6 Gen 4 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,Snapdragon 6 Gen 3 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Dimensity 6300 Processor,6.76
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,64MP Rear | 8MP Front,8000,Dimensity 7400 Ultra Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,Snapdragon 4 Gen 2 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,T8200 Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Snapdragon 6 Gen 3 Processor,6.8
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 2MP | 16MP Front,6500,T7250 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear,4000,6 Gen 4 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,8 Elite for Galaxy Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,Tensor G6 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 0.08MP | 5MP Front,6500,Dimensity 7400 Ultra Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 6300 5G Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,8 Elite for Galaxy Processor,6.79
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear | 8MP Front,10001,6 Gen 4 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,64MP Rear | 8MP Front,6000,Snapdragon 6 Gen 3 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,Dimensity 6300 Processor,6.77
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 2MP | 8MP Front,8000,Dimensity 7400 Ultra Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,Snapdragon 4 Gen 2 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 2MP | 32MP Front,4000,T8200 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 2MP | 16MP Front,4985,Snapdragon 6 Gen 3 Processor,6.3
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,T7250 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,6 Gen 4 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 8MP | 12MP Front,4000,Dimensity 7400-Turbo Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,8 Elite for Galaxy Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Tensor G6 Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,Dimensity 7400 Ultra Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 6300 5G Processor,6.8
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear | 8MP Front,6000,8 Elite for Galaxy Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,64MP Rear | 8MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.79
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Snapdragon 6 Gen 3 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Dimensity 6300 Processor,6.79
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 2MP | 16MP Front,7200,Dimensity 7400 Ultra Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear,8000,Snapdragon 4 Gen 2 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 10MP + 12MP | 12MP Front,8000,T8200 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,48MP + 13MP + 10.8MP | 10.5MP Front,4000,Snapdragon 6 Gen 3 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,T7250 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,6 Gen 4 Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Dimensity 7400-Turbo Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 8MP | 12MP Front,4000,Dimensity 7360 MAX Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,8 Elite for Galaxy Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,Tensor G6 Processor,6.7
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear | 8MP Front,5800,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 6300 5G Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 2MP | 8MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 2MP | 32MP Front,5800,6 Gen 4 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 2MP | 16MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear,10001,Dimensity 6300 Processor,6.8
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,6000,Dimensity 7400 Ultra Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,Snapdragon 4 Gen 2 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,T8200 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 0.08MP | 5MP Front,8000,Snapdragon 6 Gen 3 Processor,6.8
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,T7250 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,6 Gen 4 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 8MP | 12MP Front,6500,Dimensity 7360 MAX Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear | 8MP Front,4000,8 Elite for Galaxy Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,64MP Rear | 8MP Front,5000,Tensor G6 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 8MP | 16MP Front,6500,Dimensity 6300 5G Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,8 Elite for Galaxy Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 16MP Front,10001,Qualcomm Snapdragon 6 Gen 3 Processor,6.8
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,6 Gen 4 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,5800,Snapdragon 6 Gen 3 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Dimensity 6300 Processor,6.7
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 0.08MP | 5MP Front,6000,Dimensity 7400 Ultra Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Snapdragon 4 Gen 2 Processor,6.77
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,T8200 Processor,6.76
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,T7250 Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear | 8MP Front,10001,6 Gen 4 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,64MP Rear | 8MP Front,5000,Dimensity 7400-Turbo Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP + 2MP | 8MP Front,4000,Tensor G6 Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 2MP | 32MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP Rear,5800,Dimensity 6300 5G Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 10MP + 12MP | 12MP Front,6500,8 Elite for Galaxy Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,6 Gen 4 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 0.08MP | 5MP Front,6000,Snapdragon 6 Gen 3 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,5800,Dimensity 6300 Processor,6.77
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Snapdragon 4 Gen 2 Processor,6.79
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP Rear | 20MP Front,6000,T8200 Processor,6.77
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,T7250 Processor,6.2
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,Dimensity 7400-Turbo Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Dimensity 7360 MAX Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,8 Elite for Galaxy Processor,6.7
+Vivo,26499,"vivo T5 Lite 44W 5G (Wave Blue, 256 GB)",6,256,50MP + 2MP | 16MP Front,6500,Tensor G6 Processor,6.74
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear,4000,Dimensity 7400 Ultra Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (Blue, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Dimensity 6300 5G Processor,6.77
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,8 Elite for Galaxy Processor,6.77
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,50MP + 0.08MP | 5MP Front,6500,Qualcomm Snapdragon 6 Gen 3 Processor,6.75
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,6000,Snapdragon 6 Gen 3 Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Dimensity 6300 Processor,6.79
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear | 8MP Front,10001,Snapdragon 4 Gen 2 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,64MP Rear | 8MP Front,6000,T8200 Processor,6.79
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,T7250 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 2MP | 32MP Front,4000,6 Gen 4 Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 2MP | 16MP Front,4985,Dimensity 7400-Turbo Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP Rear,10001,Dimensity 7360 MAX Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,8 Elite for Galaxy Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,48MP + 13MP + 10.8MP | 10.5MP Front,5000,Tensor G6 Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 6300 5G Processor,6.7
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 8MP | 12MP Front,5800,Qualcomm Snapdragon 6 Gen 3 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,6 Gen 4 Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear | 8MP Front,6000,Dimensity 6300 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Snapdragon 4 Gen 2 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 2MP | 8MP Front,10001,T8200 Processor,6.8
+Boltt,8999,"BOLTT EVO (Sky Blue, 64 GB)",4,64,50MP + 8MP | 16MP Front,6000,Snapdragon 6 Gen 3 Processor,6.79
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP Rear,8000,T7250 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 10MP + 12MP | 12MP Front,8000,6 Gen 4 Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,48MP + 13MP + 10.8MP | 10.5MP Front,4000,Dimensity 7400-Turbo Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Dimensity 7360 MAX Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,8 Elite for Galaxy Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 0.08MP | 5MP Front,5000,Tensor G6 Processor,6.7
+Samsung,25999,"Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",8,128,50MP + 10MP + 12MP | 12MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Dimensity 6300 5G Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,8 Elite for Galaxy Processor,6.7
+Oppo,27999,"OPPO K14x 5G (Icy Blue, 256 GB)",6,256,64MP Rear | 8MP Front,6500,6 Gen 4 Processor,6.75
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP Rear | 20MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Dimensity 6300 Processor,6.8
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 8MP | 16MP Front,6000,Dimensity 7400 Ultra Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,50MP + 2MP | 32MP Front,5800,Snapdragon 4 Gen 2 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 2MP | 16MP Front,5000,T8200 Processor,6.7
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransSilver, 128 GB)",8,128,50MP Rear,10001,Snapdragon 6 Gen 3 Processor,6.8
+Vivo,27499,"vivo T5x 5G (Cosmic Green, 128 GB)",6,128,50MP + 8MP | 12MP Front,7200,T7250 Processor,6.76
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,6 Gen 4 Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 0.08MP | 5MP Front,8000,Dimensity 7400-Turbo Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP + 10MP + 12MP | 12MP Front,4000,Dimensity 7360 MAX Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,8 Elite for Galaxy Processor,6.3
+Realme,29999,"realme P4 Power 5G Charger in the Box (TransOrange, 128 GB)",8,128,50MP + 8MP | 12MP Front,10001,Tensor G6 Processor,6.8
+Samsung,29999,"Samsung Galaxy A36 5G (Awesome Lavender, 256 GB)",8,256,50MP + 8MP | 16MP Front,5000,Dimensity 7400 Ultra Processor,6.7
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Icyblue, 128 GB)",12,128,50MP Rear | 8MP Front,4000,Dimensity 6300 5G Processor,6.2
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Green, 256 GB)",8,256,64MP Rear | 8MP Front,5000,8 Elite for Galaxy Processor,6.7
+Samsung,29999,"Samsung Galaxy A36 5G (Dark Blue, 256 GB)",8,256,50MP Rear | 20MP Front,5000,Qualcomm Snapdragon 6 Gen 3 Processor,6.7
+Redmi,29999,"REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",8,256,50MP + 2MP | 8MP Front,5800,6 Gen 4 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Green, 128 GB)",8,128,50MP + 2MP | 32MP Front,5000,Dimensity 6300 Processor,6.7
+Mivi,13999,"Mivi One 5G (Green, 128 GB)",6,128,50MP Rear,6000,Dimensity 7400 Ultra Processor,6.75
+Boltt,13499,"BOLTT ACE 5G (Midnight Black, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,Snapdragon 4 Gen 2 Processor,6.79
+Redmi,25999,"REDMI Note 15 SE 5G Snapdragon (Crimson Reserve, 128 GB)",6,128,48MP + 13MP + 10.8MP | 10.5MP Front,5800,T8200 Processor,6.77
+Samsung,25999,"Samsung Galaxy A36 5G (Dark Blue, 128 GB)",8,128,50MP + 8MP | 12MP Front,5000,Snapdragon 6 Gen 3 Processor,6.7
+Nothing,29999,"Nothing Phone (4b) (White, 128 GB)",6,128,50MP + 10MP + 12MP | 12MP Front,6000,T7250 Processor,6.77
+Oppo,29999,"OPPO K14 Plus 5G (Star White, 128 GB)",6,128,50MP + 8MP | 12MP Front,8000,Dimensity 7400-Turbo Processor,6.78
+Oneplus,22049,"OnePlus N6 5G (Fresh Mint, 128 GB)",4,128,50MP + 8MP | 16MP Front,8000,Dimensity 7360 MAX Processor,6.8
+Samsung,55299,"Samsung Galaxy S25 5G Snapdragon (Silver Shadow, 128 GB)",12,128,50MP Rear | 20MP Front,4000,8 Elite for Galaxy Processor,6.2
+Google,89999,"Google Pixel 11 (Frost, 256 GB)",12,256,50MP + 8MP | 12MP Front,4985,Tensor G6 Processor,6.3
